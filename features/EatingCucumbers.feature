@@ -1,4 +1,4 @@
 Feature: Eating Cucumbers
   Given test
   When test
-  Then test
+  Then test refresh
