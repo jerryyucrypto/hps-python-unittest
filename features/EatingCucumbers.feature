@@ -4,7 +4,7 @@ Feature: Eating Cucumbers
     Given test
  
   @P1
-  Scenario: Scenario testing
+  Scenario Outline: Scenario testing
     When test <coffee>
     Then test <bean>
     
