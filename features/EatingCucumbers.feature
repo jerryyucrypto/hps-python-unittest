@@ -1,4 +1,6 @@
 Feature: Eating Cucumbers
-  Given test
-  When test
-  Then test refresh
+  
+  Scenarios: Scenario testing
+    Given test
+    When test
+    Then test refresh
