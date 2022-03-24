@@ -1,7 +1,9 @@
 Feature: Eating Cucumbers
   
-  Scenario: Scenario testing
+  Background: The user drinks coffee
     Given test
+  
+  Scenario: Scenario testing
     When test <coffee>
     Then test <bean>
     
