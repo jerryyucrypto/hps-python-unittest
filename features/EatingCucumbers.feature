@@ -12,4 +12,4 @@ Feature: Eating Cucumbers
     | coffee  | bean  |
     | 1.      | 2.    |
     | a       | b     |
-    | b       | c     |
+    | d       | c     |
