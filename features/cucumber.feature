@@ -1,4 +1,4 @@
-Feature: Eating Cucumbers
+Feature: Cucumbers
   
   Background: The user drinks coffee
     Given test
